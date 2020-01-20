@@ -32,7 +32,7 @@ My web development works center around "frameworks" to make coding the web easie
 
 **Bepis** (named en homage to the [meme](https://www.youtube.com/watch?v=zbqdh5duDuU)] is a silly but useful way to write HTML in a kindof, sortof *shorthand* for actual HTML. It just makes quickly parsing and writing markup easier (when you're not trying to count your pesky **.** characters, at least). Drincc up!
 
-## :bug: [dumbass](https://github.com/dosyago/dumbass) [![npm](https://img.shields.io/npm/v/dumbass.svg?label=&color=0080FF)](https://github.com/dosyago/dumbass/releases/latest) ![npm downloads total](https://img.shields.io/npm/dt/dumbass)
+## :bug: [dumbass](https://github.com/dosyago/dumbass) ![npm downloads total](https://img.shields.io/npm/dt/dumbass)  [![npm](https://img.shields.io/npm/v/dumbass.svg?label=&color=0080FF)](https://github.com/dosyago/dumbass/releases/latest)
 
 **dumbass** (what a lovely, evocative name) is my beautiful project to make building UIs **simple**. So simple you can do it half-drunk, at 3 am, with burnout and a post-feat hangover. *Love not having to think to make UI. Love **dumbass***!
 
