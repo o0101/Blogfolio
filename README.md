@@ -1,10 +1,10 @@
-# CREATIVE WORKS
+# [CREATIVE WORKS](https://github.com/crislin2046/portfolio/blob/master/README.md#creative-works)
 
 The vast, unmitiaged and unfathomable expanse of my brilliant creative work.
 
 In software I've made works in 4 main areas: cryptography, web development, browsing technology and utilities.
 
-## Cryptography
+## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
 
 My cryptography works are centered around novel primitives and simple, zero magic designs.
 
@@ -24,7 +24,7 @@ My cryptography works are centered around novel primitives and simple, zero magi
 
 **Tarobox** (anagram of xor and `btoa`) is named based on its constituent parts. It's a Diehard-passing pseudo-random number generator built out of the simple, reusable components of: a base64 expansion function, and a wrap-and-xor compression function. It's simple, but performs really well statistically. It's not fast, however.
 
-## Web Development
+## [Web Development](https://github.com/crislin2046/portfolio/blob/master/README.md#web-development)
 
 My web development works center around "frameworks" to make coding the web easier. I try to built thigns I will want to work with, and use, that make me more productive, while riffing off being inspired by current trends and developments, taking the best of other works and discarding all the cruft. I like to build simple tools.
 
@@ -36,7 +36,7 @@ My web development works center around "frameworks" to make coding the web easie
 
 **dumbass** (what a lovely, evocative name) is my beautiful project to make building UIs **simple**. So simple you can do it half-drunk, at 3 am, with burnout and a post-feat hangover. *Love not having to think to make UI. Love **dumbass***!
 
-## Browsing Technology
+## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
 My browsing technology (also known as browser controllers) works center around the design, implementation and improvement of game-changing enhancements to the way you normally might browse **human kinds vast array of all knowledge ever**. Yep, I'm a bit of a **web idealist** but I really believe in what I do here. I think these are my most likely paths to future success, and I **love** to work on them.
 
@@ -48,7 +48,7 @@ My browsing technology (also known as browser controllers) works center around t
 
 **RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is, is the foundation of my future financial success. You bettabelieveit. Ooh yeah. OOo rah!.
 
-## Utilities
+## [Utilities](https://github.com/crislin2046/portfolio/blob/master/README.md#utilities)
 
 Collected, assorted, miscellania, but high-utility y'all.
 
