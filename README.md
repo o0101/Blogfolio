@@ -63,3 +63,11 @@ Just a simple PDF to PNG server (with an awesome name, if I say so myself. I do,
 ## :card_file_box: [stubdb](https://github.com/crislin2046/stubdb) ![npm downloads](https://img.shields.io/npm/dt/stubdb) ![version](https://img.shields.io/npm/v/stubdb?label=version)
 
 A very simple "database" on the file system for when you're too small to fail.
+
+## :keycap_ten: [abacus](https://github.com/crislin2046/bitmath) ![npm downloads](https://img.shields.io/npm/dt/bitmath) ![version](https://img.shields.io/npm/v/bitmath)
+
+bit arithmetic package to add, subtract, multiply, euclidean divide bit arrays of any size.
+
+## :wind_chime: [Uint1Array](https://github.com/crislin2046/Uint1Array) ![npm downloads](https://img.shields.io/npm/dt/uint1array) ![version](https://img.shields.io/npm/v/uint1array)
+
+JavaScript's missing TypedArray. Bit-level view of any underlying ArrayBuffer.
