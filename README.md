@@ -1,6 +1,10 @@
+# What the *bloody hell* have you done all these years, huh? You useless fucking gnat of an idiot of a waste of fucking space, eh?
+
+:tada: I present to you, my&hellip;
+
 # PORTOFOLIO-O-OO
 
-the vast and unfathomable expanse of my brilliant creative work
+The vast, unmitiaged and unfathomable expanse of my brilliant creative work.
 
 In software I've made works in 4 main areas: cryptography, web development, browsing technology and utilities.
 
