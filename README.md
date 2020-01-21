@@ -4,7 +4,7 @@ In software I've made works in 4 main areas: [cryptography](#cryptography), [web
 
 ## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
 
-My cryptography works are centered around novel primitives and simple, zero magic designs.
+My cryptography works are centered around novel primitives and simple, magic-free designs.
 
 ### :alien: [Xen](https://github.com/dosyago/xen) ![npm downloads](https://img.shields.io/npm/dt/xen) ![npm version](https://img.shields.io/npm/v/xen) 
 
