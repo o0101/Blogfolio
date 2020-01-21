@@ -4,7 +4,7 @@ In software I've made works in 4 main areas: [cryptography](#cryptography), [web
 
 **Stats**
 
-In total my projects have been used by thousands of people, garnered more than 1750 stars on GitHub, and been downloaded more than 6500 times from DockerHub, NPM and GitHub releases.
+In total my projects have been used by thousands of people, garnered more than 1,750 stars on GitHub, and been downloaded more than 8,000 times from DockerHub, NPM and GitHub releases.
 
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
@@ -16,7 +16,11 @@ My browsing technology works (also known as browser controllers) center around e
 
 ### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) ![version](https://img.shields.io/npm/v/remoteview) ![npm downloads](https://img.shields.io/npm/dt/remoteview)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
-**RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser. In ways you couldn't previously. 
+**RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser. In ways you couldn't previously.
+
+### :umbrella: [Selector-Generalization](https://www.npmjs.com/package/selector-generalization) ![version](https://img.shields.io/npm/v/selector-generalization) ![npm downloads](https://img.shields.io/npm/dt/selector-generalization)
+
+**Selector-Generalization** is a package of JavaScript utils to generalize a set of CSS selectors to a single selector that matches them all. Useful for picking columns of data from a view and for mapping the structure of web apps to use as data sources or for automation.
 
 ## [Web Development](https://github.com/crislin2046/portfolio/blob/master/README.md#web-development)
 
