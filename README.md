@@ -24,7 +24,7 @@ My cryptography works are centered around novel primitives and simple, zero magi
 
 ## [Web Development](https://github.com/crislin2046/portfolio/blob/master/README.md#web-development)
 
-My web development works center around "frameworks" to make coding the web easier. I try to built things I will want to work with, and use, that make me more productive, while riffing off being inspired by current trends and developments, taking the best of other works and discarding all the cruft. I like to build simple tools.
+My web development works center around "frameworks" to make coding the web easier. 
 
 ### :dog2: [bepis](https://github.com/dosyago/bepis) ![download badge](https://img.shields.io/npm/dt/bepis) ![version badge](https://img.shields.io/npm/v/bepis/latest) [![GitHub stars](https://img.shields.io/github/stars/dosyago/bepis.svg?style=social&label=Star)](https://GitHub.com/dosyago/bepis/stargazers/)
 
@@ -36,7 +36,7 @@ My web development works center around "frameworks" to make coding the web easie
 
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
-My browsing technology works (also known as browser controllers) center around the design, implementation and improvement of game-changing enhancements to the way you normally might browse humankind's vast array of all knowledge. I'm a bit of a web idealist and really believe in what I do here. I think these are my most successful works. 
+My browsing technology works (also known as browser controllers) center around enhancements to the way you normally might browse.
 
 ### :classical_building: [22120](https://github.com/dosyago/22120) ![npm downloads](https://img.shields.io/npm/dt/archivist1?label=npm%20downloads) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads) [![latest package](https://img.shields.io/github/v/release/dosyago/22120?label=latest%20release)](https://github.com/dosyago/22120/releases) [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
 
