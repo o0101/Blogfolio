@@ -1,6 +1,6 @@
 # [CREATIVE WORKS](https://github.com/crislin2046/portfolio/blob/master/README.md#creative-works)
 
-In software I've made works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). In total my projects have garnered more than 1750 stars on GitHub, and more than 5000 downloads in total across DockerHub, NPM and GitHub releases.
+In software I've made works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). In total my projects have garnered more than 1750 stars on GitHub, and more than 6500 downloads in total across DockerHub, NPM and GitHub releases.
 
 ## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
 
