@@ -1,7 +1,5 @@
 # [CREATIVE WORKS](https://github.com/crislin2046/portfolio/blob/master/README.md#creative-works)
 
-The vast, unmitiaged and unfathomable expanse of my brilliant creative work.
-
 In software I've made works in 4 main areas: cryptography, web development, browsing technology and utilities.
 
 ## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
@@ -26,9 +24,9 @@ My cryptography works are centered around novel primitives and simple, zero magi
 
 ## [Web Development](https://github.com/crislin2046/portfolio/blob/master/README.md#web-development)
 
-My web development works center around "frameworks" to make coding the web easier. I try to built thigns I will want to work with, and use, that make me more productive, while riffing off being inspired by current trends and developments, taking the best of other works and discarding all the cruft. I like to build simple tools.
+My web development works center around "frameworks" to make coding the web easier. I try to built things I will want to work with, and use, that make me more productive, while riffing off being inspired by current trends and developments, taking the best of other works and discarding all the cruft. I like to build simple tools.
 
-### :dog2: [bepis](#drincc) ![download badge](https://img.shields.io/npm/dt/bepis) ![version badge](https://img.shields.io/npm/v/bepis/latest) [![GitHub stars](https://img.shields.io/github/stars/dosyago/bepis.svg?style=social&label=Star)](https://GitHub.com/dosyago/bepis/stargazers/)
+### :dog2: [bepis](https://github.com/dosyago/bepis) ![download badge](https://img.shields.io/npm/dt/bepis) ![version badge](https://img.shields.io/npm/v/bepis/latest) [![GitHub stars](https://img.shields.io/github/stars/dosyago/bepis.svg?style=social&label=Star)](https://GitHub.com/dosyago/bepis/stargazers/)
 
 **Bepis** (named en homage to the [meme](https://www.youtube.com/watch?v=zbqdh5duDuU)] is a silly but useful way to write HTML in a kindof, sortof *shorthand* for actual HTML. It just makes quickly parsing and writing markup easier (when you're not trying to count your pesky **.** characters, at least). Drincc up!
 
@@ -38,11 +36,11 @@ My web development works center around "frameworks" to make coding the web easie
 
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
-My browsing technology (also known as browser controllers) works center around the design, implementation and improvement of game-changing enhancements to the way you normally might browse **human kinds vast array of all knowledge ever**. Yep, I'm a bit of a **web idealist** but I really believe in what I do here. I think these are my most likely paths to future success, and I **love** to work on them.
+My browsing technology works (also known as browser controllers) center around the design, implementation and improvement of game-changing enhancements to the way you normally might browse humankind's vast array of all knowledge. I'm a bit of a web idealist and really believe in what I do here. I think these are my most successful works. 
 
 ## :classical_building: [22120](https://github.com/dosyago/22120) ![npm downloads](https://img.shields.io/npm/dt/archivist1?label=npm%20downloads) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads) [![latest package](https://img.shields.io/github/v/release/dosyago/22120?label=latest%20release)](https://github.com/dosyago/22120/releases) [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
 
-22120 (named for...*well that's a secret now, y'all...*) **LITERALLY MAKES THE INTERNET OFFLINE AVAILABALLZ**. Seriously, you can now **SELF HOST THE WHOLE INTERNETZ**. Well, that parts of it which you had the benefit (privilege? trouble?) to browse in any case. I love how easy this is, and was to do, and how it became, **MY MOST POPULAR PROJECT EVAAAHHH**. RAAA. I'm very happy about this one.
+22120 (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. Well everything you browse anyway. your browser never knows the difference. this was very easy to build. I'm very happy about this one.
 
 ## :satellite: [RemoteView](https://github.com/dosyago/RemoteView) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) ![version](https://img.shields.io/npm/v/remoteview) ![npm downloads](https://img.shields.io/npm/dt/remoteview)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
