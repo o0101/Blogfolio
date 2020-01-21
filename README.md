@@ -52,7 +52,7 @@ Collected, assorted, high-utility miscellania.
 
 ### :page_facing_up: [p2.](https://github.com/dosyago/p2.) [![GitHub stars](https://img.shields.io/github/stars/dosyago/p2..svg?style=social&label=Star)](https://GitHub.com/dosyago/p2./stargazers/)
 
-**p2.** is a simple PDF to PNG server (with an awesome name, if I say so myself. I do, did you hear me? **I DO**). Okay, so well now here it is, coming right up the big description you've all been waiting for&hellip; and it's nothing. Yep, it really is **just this**. Just **what is**. Just **what is what** :joycat:. Okay now but it works for PDF, also XSLX, DOCX, etc.
+**p2.** is a simple PDF to PNG server that also works for XSLX, DOCX, and other documents.
 
 ### :card_file_box: [stubdb](https://github.com/crislin2046/stubdb) ![npm downloads](https://img.shields.io/npm/dt/stubdb) ![version](https://img.shields.io/npm/v/stubdb?label=version)
 
