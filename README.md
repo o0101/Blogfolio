@@ -14,7 +14,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 **22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. Well everything you browse anyway. your browser never knows the difference. this was very easy to build. I'm very happy about this one.
 
-### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) ![npm downloads](https://img.shields.io/npm/dt/remoteview)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
+### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
 **RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser. In ways you couldn't previously.
 
@@ -26,7 +26,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 My web development works center around "frameworks" to make coding the web easier. 
 
-### :dog2: [Bepis](https://github.com/dosyago/bepis) [![version](https://img.shields.io/npm/v/bepis.svg?label=&color=0080FF)](https://github.com/dosyago/bepis/releases/latest)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/bepis.svg?style=social&label=Star)](https://GitHub.com/dosyago/bepis/stargazers/)
+### :dog2: [Bepis](https://github.com/dosyago/bepis) [![version](https://img.shields.io/npm/v/bepis.svg?label=&color=0080FF)](https://github.com/dosyago/bepis/releases/latest) ![npm downloads total](https://img.shields.io/npm/dt/bepis) [![GitHub stars](https://img.shields.io/github/stars/dosyago/bepis.svg?style=social&label=Star)](https://GitHub.com/dosyago/bepis/stargazers/)
 
 **Bepis** (named en homage to the [meme](https://www.youtube.com/watch?v=zbqdh5duDuU)] is a silly but useful way to write HTML in a kindof, sortof *shorthand* for actual HTML. It just makes quickly parsing and writing markup easier (when you're not trying to count your pesky **.** characters, at least). Drincc up!
 
