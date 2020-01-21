@@ -103,5 +103,5 @@ Collected, assorted, high-utility miscellania.
 In total my projects have:
 
 - been used by thousands of people
-- garnered more than 1,750 stars on GitHub, and 
-- been downloaded more than 8,000 times across DockerHub, NPM and GitHub releases.
+- garnered more than *1,750 stars* on GitHub, and 
+- been downloaded more than *8,000 times* across DockerHub, NPM and GitHub releases.
