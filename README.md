@@ -1,6 +1,6 @@
 # [CREATIVE WORKS](https://github.com/crislin2046/portfolio/blob/master/README.md#creative-works)
 
-In software I've made works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
+In software I've made open-source creative works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
 
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
@@ -100,7 +100,7 @@ Collected, assorted, high-utility miscellania.
 
 ## Stats
 
-In total my projects have:
+In total my open-source projects have:
 
 - been used by thousands of people
 - garnered more than **1,750 stars** on GitHub, and 
