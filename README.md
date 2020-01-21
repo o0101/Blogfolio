@@ -2,7 +2,7 @@
 
 In software I've made works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
 
-** Stats **
+**Stats**
 
 In total my projects have garnered more than 1750 stars on GitHub, and more than 6500 downloads in total across DockerHub, NPM and GitHub releases.
 
