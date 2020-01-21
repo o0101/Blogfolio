@@ -2,10 +2,6 @@
 
 In software I've made works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
 
-**Stats**
-
-In total my projects have been used by thousands of people, garnered more than 1,750 stars on GitHub, and been downloaded more than 8,000 times from DockerHub, NPM and GitHub releases.
-
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
 My browsing technology works (also known as browser controllers) center around enhancements to the way you normally might browse.
@@ -99,3 +95,13 @@ Collected, assorted, high-utility miscellania.
 #### [![version](https://img.shields.io/npm/v/uint1array.svg?label=&color=0080FF)](https://github.com/crislin2046/Uint1Array/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/uint1array) 
 
 **Uint1Array** is JavaScript's missing TypedArray. Bit-level view of any underlying ArrayBuffer.
+
+-----
+
+## Stats
+
+In total my projects have:
+
+- been used by thousands of people
+- garnered more than 1,750 stars on GitHub, and 
+- been downloaded more than 8,000 times across DockerHub, NPM and GitHub releases.
