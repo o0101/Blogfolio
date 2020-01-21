@@ -48,7 +48,7 @@ My browsing technology works (also known as browser controllers) center around t
 
 ## [Utilities](https://github.com/crislin2046/portfolio/blob/master/README.md#utilities)
 
-Collected, assorted, miscellania, but high-utility y'all.
+Collected, assorted, high-utility miscellania. 
 
 ### :page_facing_up: [p2.](https://github.com/dosyago/p2.) [![GitHub stars](https://img.shields.io/github/stars/dosyago/p2..svg?style=social&label=Star)](https://GitHub.com/dosyago/p2./stargazers/)
 
