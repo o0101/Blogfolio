@@ -10,11 +10,11 @@ In total my projects have been used by thousands of people, garnered more than 1
 
 My browsing technology works (also known as browser controllers) center around enhancements to the way you normally might browse.
 
-### :classical_building: [22120](https://github.com/dosyago/22120) [![latest package](https://img.shields.io/github/v/release/dosyago/22120?label=latest%20release)](https://github.com/dosyago/22120/releases) ![npm downloads](https://img.shields.io/npm/dt/archivist1?label=npm%20downloads) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
+### :classical_building: [22120](https://github.com/dosyago/22120) [![version](https://img.shields.io/npm/v/archivist1.svg?label=&color=0080FF)](https://github.com/dosyago/22120/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/archivist1) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
 
 **22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. Well everything you browse anyway. your browser never knows the difference. this was very easy to build. I'm very happy about this one.
 
-### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) ![version](https://img.shields.io/npm/v/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) ![npm downloads](https://img.shields.io/npm/dt/remoteview)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
+### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) ![npm downloads](https://img.shields.io/npm/dt/remoteview)  [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
 **RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser. In ways you couldn't previously.
 
