@@ -72,7 +72,7 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 Collected, assorted, high-utility miscellania. 
 
-### :balance_scale: [jtype](https://github.com/crislin2046/jtype-system) 
+### :balance_scale: [jtype-system](https://github.com/crislin2046/jtype-system) 
 
 #### ![version](https://img.shields.io/npm/v/jtype-system?label=%22%22) ![npm downloads](https://img.shields.io/npm/dt/jtype-system)
 
