@@ -72,6 +72,10 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 Collected, assorted, high-utility miscellania. 
 
+### :balance_scale: [jtype](https://github.com/crislin2046/jtype-system) ![npm downloads](https://img.shields.io/npm/dt/jtype-system) ![version](https://img.shields.io/npm/v/jtype-system?label=%22%22)
+
+Simple type-checking system for JavaScript at runtime.
+
 ### :page_facing_up: [p2.](https://github.com/dosyago/p2.) 
 
 #### [![GitHub stars](https://img.shields.io/github/stars/dosyago/p2..svg?style=social&label=Star)](https://GitHub.com/dosyago/p2./stargazers/)
