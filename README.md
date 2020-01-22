@@ -18,7 +18,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 **RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser. In ways you couldn't previously.
 
-### :umbrella: [Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
+### :mag:	[Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
 
 #### [![version](https://img.shields.io/npm/v/selector-generalization.svg?label=&color=0080FF)](https://github.com/crislin2046/selector-generalization/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/selector-generalization)
 
