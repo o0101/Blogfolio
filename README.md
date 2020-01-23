@@ -10,13 +10,13 @@ My browsing technology works (also known as browser controllers) center around e
 
 #### [![version](https://img.shields.io/npm/v/archivist1.svg?label=&color=0080FF)](https://github.com/dosyago/22120/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/archivist1) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads) [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
 
-**22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. Well everything you browse anyway. your browser never knows the difference. this was very easy to build. I'm very happy about this one.
+**22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. The part of it browse anyway. Your browser never knows the difference.
 
 ### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) 
 
 #### [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
-**RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser. In ways you couldn't previously.
+**RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser in ways you couldn't previously.
 
 ### :mag:	[Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
 
@@ -32,13 +32,13 @@ My web development works center around "frameworks" to make coding the web easie
 
 #### [![version](https://img.shields.io/npm/v/bepis.svg?label=&color=0080FF)](https://github.com/dosyago/bepis/releases/latest) ![npm downloads total](https://img.shields.io/npm/dt/bepis) [![GitHub stars](https://img.shields.io/github/stars/dosyago/bepis.svg?style=social&label=Star)](https://GitHub.com/dosyago/bepis/stargazers/)
 
-**Bepis** (named en homage to the [meme](https://www.youtube.com/watch?v=zbqdh5duDuU)] is a silly but useful way to write HTML in a kindof, sortof *shorthand* for actual HTML. It just makes quickly parsing and writing markup easier (when you're not trying to count your pesky **.** characters, at least). Drincc up!
+**Bepis** (named en homage to the [meme](https://www.youtube.com/watch?v=zbqdh5duDuU)) is a silly but useful way to write markup in a kindof-sortof *shorthand* for HTML. It just makes quickly parsing and writing markup easier (when you're not trying to count your pesky **.** characters, at least). Drincc up!
 
 ### :bug: [Dumbass](https://github.com/dosyago/dumbass)
 
 #### [![version](https://img.shields.io/npm/v/dumbass.svg?label=&color=0080FF)](https://github.com/dosyago/dumbass/releases/latest) ![npm downloads total](https://img.shields.io/npm/dt/dumbass) [![GitHub stars](https://img.shields.io/github/stars/dosyago/dumbass.svg?style=social&label=Star)](https://GitHub.com/dosyago/dumbass/stargazers/)
 
-**Dumbass** (what a lovely, evocative name) is my beautiful project to make building UIs **simple**. So simple you can do it half-drunk, at 3 am, with burnout and a post-feat hangover. *Love not having to think to make UI. Love **dumbass***!
+**Dumbass** is a tool for stupid people. Aren't we all? Use it when you don't want to think hard about building UIs, and care not for opinions. 
 
 ## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
 
@@ -60,7 +60,7 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 #### [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/dosyago/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter) 
 
-**Beamsplitter** (from the laser guide) is a hash I built based entirely on s-boxes. That's a substituition box, a fast, old school cryptography primitive. This hash does not pass SMHasher. I'm currently working to improve its quality and speed.
+**Beamsplitter** (from the laser guide) is a hash I built based entirely on s-boxes. That's a substituition box, a fast, old school cryptography primitive. This hash does not pass SMHasher, but passes Diehard.
 
 ### :bento: [Tarobox](https://github.com/dosyago/tarobox) 
 
