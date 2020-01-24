@@ -60,7 +60,7 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 #### [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/dosyago/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter) 
 
-**Beamsplitter** (from the laser guide) is a hash I built based entirely on s-boxes. That's a substituition box, a fast, old school cryptography primitive. This hash does not pass SMHasher, but passes Diehard.
+**Beamsplitter** (from the laser guide) is a hash I built based entirely on s-boxes. That's a substituition box, a fast, old school cryptography primitive. This hash does not pass SMHasher, but passes Dieharder.
 
 ### :bento: [Tarobox](https://github.com/dosyago/tarobox) 
 
