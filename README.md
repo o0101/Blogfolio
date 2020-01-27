@@ -56,12 +56,6 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 **Floppsy** is a hashing algorithm that passes SMHasher, meaning it stands alongside the best algorithms known. It's slower than most, clocking a modest 200Mb/s on an average workstation. Interstingly, I created it inspired by Egyptian fractions and continued fractions. It uses all floating point arithmetic, a hash-function first.
 
-### :stars: [Beamsplitter](https://github.com/dosyago/beamsplitter) 
-
-#### [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/dosyago/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter) 
-
-**Beamsplitter** (from the laser guide) is a hash I built based entirely on s-boxes. That's a substituition box, a fast, old school cryptography primitive. This hash does not pass SMHasher, but passes Dieharder.
-
 ### :bento: [Tarobox](https://github.com/dosyago/tarobox) 
 
 #### [![version](https://img.shields.io/npm/v/tarobox.svg?label=&color=0080FF)](https://github.com/dosyago/tarobox/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/tarobox) 
