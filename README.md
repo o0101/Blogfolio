@@ -22,7 +22,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 #### [![version](https://img.shields.io/npm/v/selector-generalization.svg?label=&color=0080FF)](https://github.com/crislin2046/selector-generalization/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/selector-generalization)
 
-**Selector-Generalization** is a package of JavaScript utils to generalize a set of CSS selectors to a single selector that matches them all. Useful for picking columns of data from a view and for mapping the structure of web apps to use as data sources or for automation.
+**Selector-Generalization** is novel algorithm for data collection exposed as a package of JavaScript utils to generalize a set of CSS selectors to a single selector that matches them all. Useful for picking columns of data from a view and for mapping the structure of web apps to use as data sources or for automation.
 
 ## [Web Development](https://github.com/crislin2046/portfolio/blob/master/README.md#web-development)
 
