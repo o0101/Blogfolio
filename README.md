@@ -62,6 +62,18 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 **Tarobox** (anagram of xor and `btoa`) is named based on its constituent parts. It's a Diehard-passing pseudo-random number generator built out of the simple, reusable components of: a base64 expansion function, and a wrap-and-xor compression function. It's simple, but performs really well statistically. It's not fast, however.
 
+### :city_sunrise: [Discohash](https://github.com/cris691/discohash)
+
+#### **5GB/s** **[SMHasher](https://github.com/rurban/smhasher)** 
+
+**Discohash** (*also known as* **BEBB4185**) is a super-fast non-cryptographic hash that passes SMHasher, and runs at 5GB/s in this naive, portable implementation.
+
+### :gem: [Beamsplitter](https://github.com/cris691/beamsplitter)
+
+#### **750MB/s** **[SMHasher](https://github.com/rurban/smhasher/blob/master/doc/beamsplitter)** 
+
+**Beamsplitter** (named for the [optical device](https://www.edmundoptics.com.tw/c/laser-optics/754/?#Categories=Categories%3ANzYy0)) is a SMHasher-passing family of hash functions parameterized over the choice of a high-entropy random 10x64 S-box. It's not particularly fast, and at ~750MB/s is faster than SHA1, SHA2 and SHA3. 
+
 ## [Utilities](https://github.com/crislin2046/portfolio/blob/master/README.md#utilities)
 
 Collected, assorted, high-utility miscellania. 
