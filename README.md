@@ -42,25 +42,13 @@ My web development works center around "frameworks" to make coding the web easie
 
 ## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
 
-My cryptography works are centered around novel primitives and simple, magic-free designs.
-
-### :alien: [Xen](https://github.com/dosyago/xen) 
-
-#### [![version](https://img.shields.io/npm/v/xen.svg?label=&color=0080FF)](https://github.com/dosyago/xen/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/xen) 
-
-**Xen** is a set of crypto tools made from mostly unknown primitives I invented. Its output passes Practrand and Dieharder, meaning it is statistically indistinguishable from randomness.
+My cryptography works are centered around novel primitives and simple, magic-free designs, written in portable, readable code that isn't super-optimized in order to preserve legibility (*and because I don't know too much about architecture based super optimization* :man_shrugging:).
 
 ### :baby_chick: [Floppsy](https://github.com/dosyago/floppsy)
 
 #### **[200MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/floppsyhash_64)** [![version](https://img.shields.io/npm/v/floppsy.svg?label=&color=0080FF)](https://github.com/dosyago/floppsy/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/floppsy)
 
 **Floppsy** is a hashing algorithm that passes SMHasher, meaning it stands alongside the best algorithms known. It's slower than most, clocking a modest 200Mb/s on an average workstation. Interstingly, I created it inspired by Egyptian fractions and continued fractions. It uses all floating point arithmetic, a hash-function first.
-
-### :bento: [Tarobox](https://github.com/dosyago/tarobox) 
-
-#### [![version](https://img.shields.io/npm/v/tarobox.svg?label=&color=0080FF)](https://github.com/dosyago/tarobox/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/tarobox) 
-
-**Tarobox** (anagram of xor and `btoa`) is named based on its constituent parts. It's a Diehard-passing pseudo-random number generator built out of the simple, reusable components of: a base64 expansion function, and a wrap-and-xor compression function. It's simple, but performs really well statistically. It's not fast, however.
 
 ### :city_sunrise: [Discohash](https://github.com/cris691/discohash)
 
@@ -73,6 +61,17 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 #### **[750MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/beamsplitter)** [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/cris691/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter)
 
 **Beamsplitter** (named for the [optical device](https://www.edmundoptics.com.tw/c/laser-optics/754/?#Categories=Categories%3ANzYy0)) is a SMHasher-passing family of hash functions parameterized over the choice of a high-entropy random 10x64 S-box. It's not particularly fast, and at ~750MB/s is faster than SHA1, SHA2 and SHA3. 
+### :alien: [Xen](https://github.com/dosyago/xen) 
+
+#### [![version](https://img.shields.io/npm/v/xen.svg?label=&color=0080FF)](https://github.com/dosyago/xen/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/xen) 
+
+**Xen** is a set of crypto tools made from mostly unknown primitives I invented. Its output passes Practrand and Dieharder, meaning it is statistically indistinguishable from randomness.
+
+### :bento: [Tarobox](https://github.com/dosyago/tarobox) 
+
+#### [![version](https://img.shields.io/npm/v/tarobox.svg?label=&color=0080FF)](https://github.com/dosyago/tarobox/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/tarobox) 
+
+**Tarobox** (anagram of xor and `btoa`) is named based on its constituent parts. It's a Diehard-passing pseudo-random number generator built out of the simple, reusable components of: a base64 expansion function, and a wrap-and-xor compression function. It's simple, but performs really well statistically. It's not fast, however.
 
 ## [Utilities](https://github.com/crislin2046/portfolio/blob/master/README.md#utilities)
 
