@@ -58,9 +58,10 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 ### :gem: [Beamsplitter](https://github.com/cris691/beamsplitter)
 
-#### **[750MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/beamsplitter)** [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/cris691/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter)
+#### **[800MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/beamsplitter)** [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/cris691/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter)
 
-**Beamsplitter** (named for the [optical device](https://www.edmundoptics.com.tw/c/laser-optics/754/?#Categories=Categories%3ANzYy0)) is a SMHasher-passing family of hash functions parameterized over the choice of a high-entropy random 10x64 S-box. It's not particularly fast, and at ~750MB/s is faster than SHA1, SHA2 and SHA3. 
+**Beamsplitter** (named for the [optical device](https://www.edmundoptics.com.tw/c/laser-optics/754/?#Categories=Categories%3ANzYy0)) is a SMHasher-passing family of hash functions parameterized over the choice of a high-entropy random 10x64 S-box. It's not particularly fast, and at ~800MB/s is faster than SHA1, SHA2 and SHA3.
+
 ### :alien: [Xen](https://github.com/dosyago/xen) 
 
 #### [![version](https://img.shields.io/npm/v/xen.svg?label=&color=0080FF)](https://github.com/dosyago/xen/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/xen) 
