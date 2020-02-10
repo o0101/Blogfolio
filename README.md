@@ -52,7 +52,7 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 ### :baby_chick: [Floppsy](https://github.com/dosyago/floppsy)
 
-#### [![version](https://img.shields.io/npm/v/floppsy.svg?label=&color=0080FF)](https://github.com/dosyago/floppsy/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/floppsy) 
+#### **[200MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/floppsyhash_64)** [![version](https://img.shields.io/npm/v/floppsy.svg?label=&color=0080FF)](https://github.com/dosyago/floppsy/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/floppsy)
 
 **Floppsy** is a hashing algorithm that passes SMHasher, meaning it stands alongside the best algorithms known. It's slower than most, clocking a modest 200Mb/s on an average workstation. Interstingly, I created it inspired by Egyptian fractions and continued fractions. It uses all floating point arithmetic, a hash-function first.
 
