@@ -46,19 +46,19 @@ My cryptography works are centered around novel primitives and simple, magic-fre
 
 ### :baby_chick: [Floppsy](https://github.com/dosyago/floppsy)
 
-#### **[200MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/floppsyhash_64)** [![version](https://img.shields.io/npm/v/floppsy.svg?label=&color=0080FF)](https://github.com/dosyago/floppsy/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/floppsy)
+#### **[200MB/s, passes all SMHasher](https://github.com/rurban/smhasher/blob/master/doc/floppsyhash_64)** [![version](https://img.shields.io/npm/v/floppsy.svg?label=&color=0080FF)](https://github.com/dosyago/floppsy/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/floppsy)
 
 **Floppsy** is a hashing algorithm that passes SMHasher, meaning it stands alongside the best algorithms known. It's slower than most, clocking a modest 200Mb/s on an average workstation. Interstingly, I created it inspired by Egyptian fractions and continued fractions. It uses all floating point arithmetic, a hash-function first.
 
 ### :city_sunrise: [Discohash](https://github.com/cris691/discohash)
 
-#### **[2.6GB/s SMHasher](https://github.com/cris691/discohash/blob/master/Disco3.result.txt)**  [![version](https://img.shields.io/npm/v/bebb4185.svg?label=&color=0080FF)](https://github.com/cris691/discohash/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/bebb4185)
+#### **[2 - 5 GB/s, passes all SMHasher](https://github.com/cris691/discohash/blob/master/Disco3.result.txt)**  [![version](https://img.shields.io/npm/v/bebb4185.svg?label=&color=0080FF)](https://github.com/cris691/discohash/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/bebb4185)
 
 **Discohash** (*also known as* **BEBB4185**) is a super-fast non-cryptographic hash that passes SMHasher, and runs at 2.6GB/s in this naive, portable implementation.
 
 ### :gem: [Beamsplitter](https://github.com/cris691/beamsplitter)
 
-#### **[550MB/s SMHasher](https://github.com/rurban/smhasher/blob/master/doc/beamsplitter)** [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/cris691/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter)
+#### **[500 - 800MB/s, passes all SMHasher](https://github.com/rurban/smhasher/blob/master/doc/beamsplitter)** [![version](https://img.shields.io/npm/v/beamsplitter.svg?label=&color=0080FF)](https://github.com/cris691/beamsplitter/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/beamsplitter)
 
 **Beamsplitter** (named for the [optical device](https://www.edmundoptics.com.tw/c/laser-optics/754/?#Categories=Categories%3ANzYy0)) is a SMHasher-passing family of hash functions parameterized over the choice of a high-entropy random 10x64 S-box. It's not particularly fast, and at ~550MB/s is faster than SHA1, SHA2 and SHA3.
 
