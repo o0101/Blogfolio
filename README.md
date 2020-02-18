@@ -117,3 +117,7 @@ In total my open-source projects have:
 - been used by thousands of people
 - garnered more than **1,750 stars** on GitHub, and 
 - been downloaded more than **10,000 times** across DockerHub, NPM and GitHub releases.
+
+## Other Bona Fides
+
+I also record some [test results](TEST_RESULTS.md) I pick up along the way.
