@@ -2,13 +2,13 @@
 
 Here's a collection of test results relevant to software engineering.
 
-- **February 2020** [Codility Test, 3 questions, 110 minutes - 100% in all tasks](https://app.codility.com/c/feedback/NGD6TS-ZUH/)
+- ### **February 2020** [Codility Test, 3 questions, 110 minutes - 100% in all tasks](https://app.codility.com/c/feedback/NGD6TS-ZUH/)
 
   **Screenshot:**
   
   ![codility test result](https://raw.githubusercontent.com/cris691/Portfolio/master/images/codility-DOMINATION-raaa.JPG)
   
-- **September 2018** [Pluralsight Tests, 11 concentrations](https://app.pluralsight.com/profile/cris-stringfellow-e)
+- ### **September 2018** [Pluralsight Tests, 11 concentrations](https://app.pluralsight.com/profile/cris-stringfellow-e)
 
   **Pluralsight Results Table**
 
