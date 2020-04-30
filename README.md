@@ -114,9 +114,9 @@ Simple type-checking system for JavaScript at runtime.
 
 In total my open-source projects have:
 
-- been used by thousands of people
-- garnered more than **1,750 stars** on GitHub, and 
-- been downloaded more than **13,000 times** across DockerHub, NPM and GitHub releases.
+- been used by **more than 5,000 people**
+- garnered more than **1,900 stars** on GitHub, and 
+- been downloaded more than **15,000 times** across DockerHub, NPM and GitHub releases.
 
 ## Other Bona Fides
 
