@@ -2,6 +2,13 @@
 
 In software I've made open-source creative works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
 
+## Bona Fides
+
+Besides the projects below which are all my own work, here are some other links:
+
+- [Stackoverflow Developer Story](https://stackoverflow.com/users/story/10283964)
+- [Pluralsight Skills IQ](https://app.pluralsight.com/profile/cris-stringfellow-e)
+
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
 My browsing technology works (also known as browser controllers) center around enhancements to the way you normally might browse.
