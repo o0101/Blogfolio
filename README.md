@@ -17,7 +17,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 #### [![version](https://img.shields.io/npm/v/archivist1.svg?label=&color=0080FF)](https://github.com/dosyago/22120/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/archivist1) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads) [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
 
-**22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. The part of it browse anyway. Your browser never knows the difference.
+**22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. The part of it you browsed, at least. Your browser never knows the difference.
 
 ### :satellite: [RemoteView](https://github.com/dosyago/RemoteView) 
 
