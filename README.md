@@ -2,6 +2,14 @@
 
 In software I've made open-source creative works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
 
+## Stats
+
+In total my open-source projects have:
+
+- been used by **more than 10,000 people**
+- garnered more than **2,000 stars** on GitHub, and 
+- been downloaded more than **20,000 times** across DockerHub, NPM and GitHub releases.
+
 ## Bona Fides
 
 Besides the projects below which are all my own work, here are some other links:
@@ -116,14 +124,6 @@ Simple type-checking system for JavaScript at runtime.
 **Uint1Array** is JavaScript's missing TypedArray. Bit-level view of any underlying ArrayBuffer.
 
 -----
-
-## Stats
-
-In total my open-source projects have:
-
-- been used by **more than 6,000 people**
-- garnered more than **2,000 stars** on GitHub, and 
-- been downloaded more than **17,000 times** across DockerHub, NPM and GitHub releases.
 
 ## Other Bona Fides
 
