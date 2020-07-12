@@ -125,7 +125,7 @@ Simple type-checking system for JavaScript at runtime.
 
 ### [environments](https://github.com/cris691/environments)
 
-#### [npm downloads](https://img.shields.io/npm/dt/stubdb) 
+#### [npm downloads](https://img.shields.io/npm/dt/environments) 
 
 -----
 
