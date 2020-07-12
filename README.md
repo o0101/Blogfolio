@@ -107,7 +107,7 @@ Simple type-checking system for JavaScript at runtime.
 
 ### :card_file_box: [stubdb](https://github.com/crislin2046/stubdb) 
 
-#### [![version](https://img.shields.io/npm/v/stubdb.svg?label=&color=0080FF)](https://github.com/crislin2046/stubdb/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/stubdb) 
+#### [![version](https://img.shields.io/npm/v/stubdb.svg?label=&color=0080FF)](https://github.com/cris691/stubdb/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/stubdb) 
 
 **stubdb** is very simple "database" on the file system for when you're too small to fail.
 
@@ -122,6 +122,10 @@ Simple type-checking system for JavaScript at runtime.
 #### [![version](https://img.shields.io/npm/v/uint1array.svg?label=&color=0080FF)](https://github.com/crislin2046/Uint1Array/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/uint1array) 
 
 **Uint1Array** is JavaScript's missing TypedArray. Bit-level view of any underlying ArrayBuffer.
+
+### [environments](https://github.com/cris691/environments)
+
+#### [npm downloads](https://img.shields.io/npm/dt/stubdb) 
 
 -----
 
