@@ -31,7 +31,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 #### [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
-**RemoteView** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser in ways you couldn't previously.
+**BrowserGap** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser in ways you couldn't previously.
 
 ### [:mag:	Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
 
