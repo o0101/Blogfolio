@@ -27,7 +27,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 **22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. The part of it you browsed, at least. Your browser never knows the difference.
 
-### [:satellite: RemoteView](https://github.com/dosyago/RemoteView) 
+### [:satellite: BrowserGap](https://github.com/dosyago/BrowserGap) 
 
 #### [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
