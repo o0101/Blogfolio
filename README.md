@@ -16,6 +16,7 @@ Besides the projects below which are all my own work, here are some other links:
 
 - [Stackoverflow Developer Story](https://stackoverflow.com/users/story/10283964)
 - [Pluralsight Skills IQ](https://app.pluralsight.com/profile/cris-stringfellow-e)
+- [TripleByte Front-end certificate](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/frontend)
 
 ## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
 
