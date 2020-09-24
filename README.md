@@ -1,6 +1,6 @@
 # [CREATIVE WORKS](https://github.com/crislin2046/portfolio/blob/master/README.md#creative-works)
 
-In software I've made open-source creative works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browsing technology](#browsing-technology) and [utilities](#utilities). 
+In software I've made open-source creative works in 4 main areas: [cryptography](#cryptography), [web development](#web-development), [browser technology](#browser-technology) and [utilities](#utilities). 
 
 ## Stats
 
@@ -18,7 +18,7 @@ Besides the projects below which are all my own work, here are some other links:
 - [Pluralsight Skills IQ](https://app.pluralsight.com/profile/cris-stringfellow-e)
 - [TripleByte Front-end certificate](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/frontend)
 
-## [Browsing Technology](https://github.com/crislin2046/portfolio/blob/master/README.md#browsing-technology)
+## [Browser Technology](https://github.com/cris691/portfolio/blob/master/README.md#browser-technology)
 
 My browsing technology works (also known as browser controllers) center around enhancements to the way you normally might browse.
 
@@ -28,13 +28,13 @@ My browsing technology works (also known as browser controllers) center around e
 
 **22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. The part of it you browsed, at least. Your browser never knows the difference.
 
-### [:satellite: BrowserGap](https://github.com/dosyago/BrowserGap) 
+### [:satellite: OuterShell](https://github.com/dosyago/OuterShell) 
 
-#### [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/RemoteView/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
+#### [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/OuterShell/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
 
-**BrowserGap** lets you live-stream the browser interactively. You can run it headless, or not. Local, or remote. You can build on top of it. But what it really is is an example of the platform to be able to build on top of the browser in ways you couldn't previously.
+**OuterShell** lets you live-stream the browser interactively. You can build on top of it to create augmented browsing experiences deliverable on any device without download.
 
-### [:mag:	Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
+### [:mag: Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
 
 #### [![version](https://img.shields.io/npm/v/selector-generalization.svg?label=&color=0080FF)](https://github.com/crislin2046/selector-generalization/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/selector-generalization)
 
