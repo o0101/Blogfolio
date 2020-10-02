@@ -62,7 +62,7 @@ My web development works center around "frameworks" to make coding the web easie
 
 ## [Cryptography](https://github.com/crislin2046/portfolio/blob/master/README.md#cryptography)
 
-My cryptography works are centered around novel primitives and simple, magic-free designs, written in portable, readable code that isn't super-optimized in order to preserve legibility.
+My cryptography works are centered around novel takes on existing patterns and primitives and simple, magic-free designs, written in portable, readable code that isn't super-optimized in order to preserve legibility.
 
 ### [:baby_chick: Floppsy](https://github.com/dosyago/floppsy)
 
