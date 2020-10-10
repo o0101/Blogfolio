@@ -46,7 +46,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 ## [Web Development](https://github.com/crislin2046/portfolio/blob/master/README.md#web-development)
 
-My web development works center around "frameworks" to make coding the web easier. 
+My web development works center around ergonomic "frameworks" to make coding the web easier. 
 
 ### [:dog2: Bepis](https://github.com/dosyago/bepis) 
 
