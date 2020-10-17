@@ -26,17 +26,17 @@ I created [OuterShell](https://github.com/dosyago/OuterShell) to make web scrapi
 
 My browsing technology works (also known as browser controllers) center around enhancements to the way you normally might browse.
 
-### [:classical_building: 22120](https://github.com/dosyago/22120) 
+### [:classical_building: 22120](https://github.com/c9fe/22120) 
 
 #### [![version](https://img.shields.io/npm/v/archivist1.svg?label=&color=0080FF)](https://github.com/dosyago/22120/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/archivist1) ![binary downloads](https://img.shields.io/github/downloads/dosyago/22120/total?label=binary%20downloads) [![GitHub stars](https://img.shields.io/github/stars/dosyago/22120.svg?style=social&label=Star)](https://GitHub.com/dosyago/22120/stargazers/)
 
 **22120** (named for the Vatican library) is a browser controller that lets you self host an offline archive of the internet. The part of it you browsed, at least. Your browser never knows the difference.
 
-### [:satellite: OuterShell](https://github.com/dosyago/OuterShell) 
+### [:camera: ViewFinder](https://github.com/c9fe/ViewFinder) 
 
-#### [![version](https://img.shields.io/npm/v/remoteview.svg?label=&color=0080FF)](https://github.com/dosyago/OuterShell/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/remoteview) ![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce) [![GitHub stars](https://img.shields.io/github/stars/dosyago/RemoteView.svg?style=social&label=Star)](https://GitHub.com/dosyago/RemoteView/stargazers/)
+#### [![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce)](https://hub.docker.com/r/dosyago/browsergapce) ![version](https://img.shields.io/npm/v/remoteview) [![npm downloads](https://img.shields.io/npm/dt/remoteview)](https://www.npmjs.com/package/remoteview) [![binary downloads](https://img.shields.io/github/downloads/cris691/ViewFinder/total?label=binary%20downloads)](https://github.com/cris691/ViewFinder/releases/latest)
 
-**OuterShell** lets you live-stream the browser interactively. You can build on top of it to create augmented browsing experiences deliverable on any device without download.
+**ViewFinder** lets you live-stream the browser interactively. You can build on top of it to create augmented browsing experiences deliverable on any device without download.
 
 ### [:mag: Selector-Generalization](https://www.npmjs.com/package/selector-generalization)
 
