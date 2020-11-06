@@ -110,17 +110,17 @@ Lightweight runtime types for vanilla JavaScript and Node.
 
 **p2.** is a simple PDF to PNG server that also works for XSLX, DOCX, and other documents.
 
-### [:card_file_box: stubdb](https://github.com/crislin2046/stubdb) 
+### [:man: Sir>DB](https://github.com/c9fe/sirdb) 
 
-#### [![version](https://img.shields.io/npm/v/stubdb.svg?label=&color=0080FF)](https://github.com/cris691/stubdb/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/stubdb) 
+#### [![version](https://img.shields.io/npm/v/stubdb.svg?label=&color=0080FF)](https://github.com/cris691/stubdb/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/sirdb) 
 
-**stubdb** is very simple database on the file system for when you're too small to fail.
+**Sir>DB** is very simple database on the file system for when you're too small to fail. It's git-diff-able, organized into subdirectories, and all JSON.
 
-### [💾 servedata](https://github.com/cris691/servedata) 
+### [💾 servedata](https://github.com/c9fe/servedata) 
 
 #### [![version](https://img.shields.io/npm/v/servedata.svg?label=&color=0080FF)](https://github.com/cris691/servedata/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/servedata)  [![GitHub stars](https://img.shields.io/github/stars/cris691/servedata.svg?style=social&label=Star)](https://GitHub.com/cris691/servedata/stargazers/)
 
-**servedata** is based on stubdb, and is very simple server for its database, incorporating payment, users, groups, permissions and authentication as well as standard landing page and sign in and profile interface.
+**servedata** is based on sirdb, and is very simple server for its database, incorporating payment, users, groups, permissions and authentication as well as standard landing page and sign in and profile interface.
 
 ### [:keycap_ten: Abacus](https://github.com/crislin2046/bitmath) 
 
