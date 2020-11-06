@@ -118,7 +118,7 @@ Lightweight runtime types for vanilla JavaScript and Node.
 
 ### [:man: Sir>DB](https://github.com/c9fe/sirdb) 
 
-#### [![version](https://img.shields.io/npm/v/stubdb.svg?label=&color=0080FF)](https://github.com/cris691/stubdb/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/sirdb) 
+#### [![version](https://img.shields.io/npm/v/stubdb.svg?label=&color=0080FF)](https://github.com/cris691/stubdb/releases/latest) ![npm downloads](https://img.shields.io/npm/dt/sirdb) [![GitHub stars](https://img.shields.io/github/stars/c9fe/sirdb.svg?style=social&label=Star)](https://GitHub.com/c9fe/sirdb/stargazers/)
 
 **Sir>DB** is very simple database on the file system for when you're too small to fail. It's git-diff-able, organized into subdirectories, and all JSON.
 
