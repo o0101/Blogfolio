@@ -6,9 +6,9 @@ In software I've made open-source creative works in 4 main areas: [cryptography]
 
 In total my open-source projects have:
 
-- been used by **more than 25,000 people**
-- garnered more than **2,500 stars** on GitHub, and 
-- been downloaded more than **35,000 times** across DockerHub, NPM and GitHub releases.
+- been used by **more than 30,000 people**
+- garnered more than **2,700 stars** on GitHub, and 
+- been downloaded more than **45,000 times** across DockerHub, NPM and GitHub releases.
 
 ## Bona Fides
 
@@ -97,6 +97,12 @@ My cryptography works are centered around novel takes on existing patterns and p
 ## [Utilities](https://github.com/crislin2046/portfolio/blob/master/README.md#utilities)
 
 Collected, assorted, high-utility miscellania. 
+
+### [:goggles: Grader.JS](https://github.com/c9fe/graderjs) 
+
+#### ![npm downloads](https://img.shields.io/npm/dt/graderjs?label=npm%20downloads) ![version](https://img.shields.io/npm/v/graderjs?label=version)
+
+**Grader.JS**, or just **Grader**, is a tool to help you build accessible, cross-platform desktop app binaries in Node.JS, JavaScript, HTML and CSS, without the bloat of Electron, nor the headaches of Qt.
 
 ### [:icecream: vanillatype](https://github.com/crislin2046/jtype-system) 
 
