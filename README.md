@@ -7,7 +7,7 @@ In software I've made open-source creative works in 4 main areas: [cryptography]
 In total my open-source projects have:
 
 - been used by **more than 35000 people**
-- earned more than **3800 stars** on GitHub, and 
+- earned more than **4000 stars** on GitHub, and 
 - been downloaded more than **50000 times** across DockerHub, NPM and GitHub releases.
 
 ## Bona Fides
