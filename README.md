@@ -34,7 +34,7 @@ My browsing technology works (also known as browser controllers) center around e
 
 ### [:camera: ViewFinder](https://github.com/c9fe/ViewFinder) 
 
-#### [![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce)](https://hub.docker.com/r/dosyago/browsergapce) ![version](https://img.shields.io/npm/v/remoteview) [![npm downloads](https://img.shields.io/npm/dt/remoteview)](https://www.npmjs.com/package/remoteview) [![binary downloads](https://img.shields.io/github/downloads/cris691/ViewFinder/total?label=binary%20downloads)](https://github.com/cris691/ViewFinder/releases/latest)
+#### [![docker pulls](https://img.shields.io/docker/pulls/dosyago/browsergapce)](https://hub.docker.com/r/dosyago/browsergapce) ![version](https://img.shields.io/npm/v/remoteview) [![npm downloads](https://img.shields.io/npm/dt/remoteview)](https://www.npmjs.com/package/remoteview) [![binary downloads](https://img.shields.io/github/downloads/cris691/ViewFinder/total?label=binary%20downloads)](https://github.com/cris691/ViewFinder/releases/latest)[![GitHub stars](https://img.shields.io/github/stars/c9fe/ViewFinder.svg?style=social&label=Star)](https://GitHub.com/c9fe/ViewFinder/stargazers/)
 
 **ViewFinder** lets you live-stream the browser interactively. You can build on top of it to create augmented browsing experiences deliverable on any device without download.
 
