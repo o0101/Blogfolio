@@ -14,11 +14,11 @@ In total my open-source projects have:
 
 Besides the projects below which are all my own work, here are some other links:
 
+- [Triplebyte Front-end certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/frontend)
+- [Triplebyte Generalist certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/generalist)
+- [Triplebyte DevOps certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/devops)
 - [Stackoverflow Developer Story](https://stackoverflow.com/users/story/10283964)
 - [Pluralsight Skills IQ](https://app.pluralsight.com/profile/cris-stringfellow-e)
-- [TripleByte Front-end certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/frontend)
-- [TripleByte Generalist certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/generalist)
-- [TripleByte DevOps certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/devops)
 
 ## That time I rendered a web browser in a web browser
 
