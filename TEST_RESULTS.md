@@ -27,7 +27,14 @@ Here's a collection of test results relevant to software engineering.
   | Security      |   136     |    40      |
 
   **Score Summary**
-    - **Average score out of 300**: 231
-    - **Average % score**: 77%
+
+  Results show skill concentration in high level dynamic programming languages with a focus on web technologies. And less experience tho still competent in low level systems programming with a focus on networking and security.
+
+    - **top:bottom quartile average % score**: 99:58
+    - **Average:median score out of 300**: 231:246
+    - **Average:median % score**: 77:82%
     - **Average percentile of score**: 85
+    - **Median percentile of score**: 95
+    - **Mode percentile of score**: 99
+
  
