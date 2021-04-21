@@ -18,6 +18,7 @@ Besides the projects below which are all my own work, here are some other links:
 - [Triplebyte Generalist certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/generalist)
 - [Triplebyte DevOps certificate (top 10%)](https://triplebyte.com/tb/cris-stringfellow-daovgil/certificate/track/devops)
 - [Stackoverflow Developer Story](https://stackoverflow.com/users/story/10283964)
+- [Stackoverflow Profile (from '13)](https://stackoverflow.com/users/907415/Cris%20Stringfellow)
 - [Pluralsight Skills IQ](https://app.pluralsight.com/profile/cris-stringfellow-e)
 
 ## That time I rendered a web browser in a web browser
